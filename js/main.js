@@ -17,7 +17,7 @@ class Leetcode{
                 this.solutionTheme.textContent = `
                     ${solut[i].solutionTheme}
                 `
-                this.solutionDesc.textContent = solut[i].Solution
+                this.solutionDesc.innerHTML = solut[i].Solution
                 this.solutionStdio.innerHTML = `
                 <ul>
 

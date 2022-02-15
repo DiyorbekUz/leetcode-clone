@@ -2,7 +2,7 @@ let solutions = [
     {
         solutionId: 1,
         solutionTheme: "1. Two sum",
-        Solution: `Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.  <b>The function name must be declared as sum()</b>`,
+        Solution: `<span>Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.  <b>The function name must be declared as sum()</b> </span> `,
         Example1: `<span>Input:</span> <code>nums = [2,7,11,15], target = 9  </code> <br>
         <span>Output:</span> <code>[0,1] </code> <br>
         <span>Explanation:</span> <code>Because nums[0] + nums[1] == 9, we return [0, 1]. </code>`,
@@ -15,7 +15,7 @@ let solutions = [
     {
         solutionId: 2,
         solutionTheme: "2. Palindrome",
-        Solution: `A phrase is a palindrome if, after converting all uppercase letters into lowercase letters and removing all non-alphanumeric characters, it reads the same forward and backward. Alphanumeric characters include letters and numbers. <b>The function name must be declared as palindrom()</b>`,
+        Solution: `</span>A phrase is a palindrome if, after converting all uppercase letters into lowercase letters and removing all non-alphanumeric characters, it reads the same forward and backward. Alphanumeric characters include letters and numbers. <b>The function name must be declared as palindrom()</b> </span>`,
         Example1: `<b>Input:</b>  <code> str = "kiyik" </code> <br>
         <span> <b>Output: </b></span>  <code> true </code> <br>
         <span><b> Explanation: </b></span>  <code> Because "kiyik" is a palindrome. </code>`,
@@ -28,7 +28,7 @@ let solutions = [
     {
         solutionId: 3,
         solutionTheme: "3. Compares two number",
-        Solution: `Create a function that compares two numbers!  <b>The function name must be declared as Compares()</b>`,
+        Solution: `<span>Create a function that compares two numbers!  <b>The function name must be declared as Compares()</b> </span>`,
         Example1: `<span><b> Input: </b></span>  <code> compares(12, 23) </code> <br>
         <span><b> Output: </b></span> <code>  < </code> <br>
         <span><b> Explanation </b>:</span> <code>  because the number 12 is smaller than the number 23 </code>
